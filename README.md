@@ -27,7 +27,7 @@ const matmper = {
         backend: ["PHP", "JavaScript", "TypeScript", "NodeJS"],
         data: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
 	queue: ["SQS", "SNS", "RabbitMQ"],
-        devops: ["AWS", "RackSpace", "Docker", "Git", "Deploy"]
+        devops: ["AWS", "RackSpace", "Docker", "Git", "CI/CD"]
     },
 }
 ```
