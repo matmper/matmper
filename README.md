@@ -27,7 +27,7 @@ const matmper = {
         backend: ["PHP", "JavaScript", "TypeScript", "NodeJS"],
         data: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
 	queue: ["SQS", "SNS", "RabbitMQ"],
-        devops: ["AWS", "RackSpace", "Docker"]
+        devops: ["AWS", "RackSpace", "Docker", "Git", "Deploy"]
     },
 }
 ```
@@ -40,8 +40,6 @@ const matmper = {
 </p>
 
 ---
-
-#### Thanks & Follow me
 
 <a href="https://linkedin.com/in/matheusmp" target="_blank">
 	<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
