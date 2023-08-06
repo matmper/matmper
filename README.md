@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=matmper&style=for-the-badge&logo=appveyor&color=ff69b4" alt="matmper" /> <img src="https://img.shields.io/github/followers/Parply?style=for-the-badge&color=ff69b4"/> <img src="https://img.shields.io/github/last-commit/matmper/matmper?style=for-the-badge&label=Updated&color=ff69b4"/>
+    <img src="https://komarev.com/ghpvc/?username=matmper&style=for-the-badge&logo=appveyor&color=ff69b4" alt="matmper" />
+	<img src="https://img.shields.io/github/followers/Parply?style=for-the-badge&color=ff69b4" />
+	<img src="https://img.shields.io/github/last-commit/matmper/matmper?style=for-the-badge&label=Updated&color=ff69b4" />
 </p>
 
 ---
@@ -19,7 +21,7 @@
 const matmper = {
     name: "Matheus Pereira",
     country: "Brazil",
-    age: 27,
+    age: 28,
     technologies: {
         frontend: ["HTML", "CSS", "JavaScript"],
         backend: ["PHP", "JavaScript", "TypeScript", "NodeJS"],
@@ -36,14 +38,11 @@ const matmper = {
 <p align="center">
 	<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=matmper"/>
 </p>
-<p align="center">
-	<img img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matmper"/>
-</p>
 
 ---
 
 #### Thanks & Follow me
 
 <a href="https://linkedin.com/in/matheusmp" target="_blank">
-	<img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+	<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
