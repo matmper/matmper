@@ -24,7 +24,7 @@
 const matmper = {
     name: "Matheus Pereira",
     country: "Brazil",
-    age: 29,
+    age: 30,
     technologies: {
         frontend: ["HTML", "CSS", "JavaScript"],
         backend: ["PHP", "JavaScript", "TypeScript", "NodeJS"],
