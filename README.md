@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://matheusp.com.br" target="_blank">
-		<img src="https://matheusp.com.br/assets/img/logotipo-matheus-pereira-branco.webp"/>
+		<img src="https://matheusp.com.br/assets/img/logotipo-matheus-pereira-branco.webp" width="150px"/>
 	</a>
 </p>
 
@@ -24,7 +24,7 @@
 const matmper = {
     name: "Matheus Pereira",
     country: "Brazil",
-    age: 30,
+    age: 31,
     technologies: {
         frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
         backend: ["PHP", "JavaScript", "TypeScript", "NodeJS"],
