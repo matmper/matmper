@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://matheusp.com.br" target="_blank">
-		<img src="https://matheusp.com.br/assets/img/logotipo-matheus-pereira.png"/>
+		<img src="https://matheusp.com.br/assets/img/logotipo-matheus-pereira-branco.webp"/>
 	</a>
 </p>
 
